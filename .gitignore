@@ -1,0 +1,63 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.pidb
+*.log
+*.vsix
+*.nupkg
+*.pfx
+*.bak
+*.orig
+*.psess
+*.vsp
+*.vspx
+*.sln.docstates
+*.suo
+
+# Ignore build output
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+!.nuget/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
